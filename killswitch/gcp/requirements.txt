@@ -1,0 +1,2 @@
+google-cloud-billing>=1.12
+functions-framework>=3.5
